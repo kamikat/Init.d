@@ -21,7 +21,7 @@ introduced by Android Oreo (8.0).
 
 Init.d requires `su` command with `find`/`xargs` under root shell.
 
-## Debug
+### Debug
 
 To ensure the scripts running, you can either look into `adb logcat` or add following script to `/data/local/init.d`:
 
